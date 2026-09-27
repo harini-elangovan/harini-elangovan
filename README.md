@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Harini Elangovan 👋
 
-<!--
-**harini-elangovan/harini-elangovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Software Development  
+🤖 Big Data & Artificial Intelligence  
+🔐 Cybersecurity
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a Bachelor of Computer Science, with a focus on Big Data, Artificial Intelligence, and Cybersecurity.
+
+I'm interested in building practical software, working with data, and exploring how AI and cybersecurity can be applied to real-world problems.
+
+## Skills
+
+### Programming
+- Java
+- Python
+- SQL
+- HTML
+
+### Databases
+- MySQL
+- MongoDB
+
+### Areas of Interest
+- Software Development
+- Big Data
+- Artificial Intelligence
+- Cybersecurity
+- UI/UX
+
+## Currently Learning
+
+- Git & GitHub
+- Big Data technologies
+- Artificial Intelligence
+- Cybersecurity
+
+## Projects
+
+- ☕ Java Cake Ordering System
+- 📊 Air Quality Analysis
+- 🗄️ Database & MongoDB Projects
+
+---
+
+⭐ Thanks for visiting my profile!
